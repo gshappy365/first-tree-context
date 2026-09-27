@@ -1,22 +1,21 @@
-# mac_claude Context Tree
+---
+title: "Skills123 Context Tree"
+owners:
+  - gshappy365
+---
 
-## 团队
+# Skills123 Context Tree
 
-- **gshappy365** — 人类用户
-- **mac_codex** — Codex 运行时 AI 助手
-- **mac_claude** — Claude Code 运行时 AI 助手
-- **agy** — 另一 Claude Code 运行时 AI 助手
+This Context Tree records durable decisions, constraints, ownership, and cross-domain relationships for the team that maintains the Skills123 catalogue and its supporting delivery system.
 
-## 领域划分（待完善）
+## Active Domains
 
-此 Context Tree 将记录团队的持久化决策、约束和跨领域关系。
+- [System](system/NODE.md) — technical concerns for the catalogue, content, and delivery boundaries.
 
-## 使用规则
+## Members
 
-- 每个领域一个目录，目录下放 NODE.md
-- 根 NODE.md 定义核心领域划分和团队信息
-- 软链接 (soft_links) 用于跨领域引用
+- [gshappy365](members/gshappy365/NODE.md) — primary owner for the initial tree scope.
 
-## 当前活动
+## Raw Context
 
-- 群聊协作、世界杯预测讨论
+- `raw-context/NODE.md` — intake for notes and explorations that are not yet durable tree content.
